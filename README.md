@@ -2,7 +2,7 @@
 A working version of mcreator for 1.8.9
 
 ## How to use
-It's a little confusing and alot of work to get your actual .jar file or to run as a client but here are the steps.
+**It's a little confusing and alot of work to get your actual .jar file or to run as a client but here are the steps.**
 
 1. Download the .zip file and extract it.
 2. Extract the mcreator 1.8.9.zip but DO NOT delete it. If you do you must re-download
@@ -24,4 +24,17 @@ It's a little confusing and alot of work to get your actual .jar file or to run 
 18. Press on IMPORT MCR FILE and use the .mcr file in the Saves folder. Btw you can now delete the .jar file in that folder (If it generated it might not of.)
 19. Now follow steps 4 to 10 again.
 
-It seams like alot of steps only to have to do them all again every mod update. But when you get the hang of it it only takes about 30 seconds. Which I know is more work than just pressing one button, but it's better than learning all the code for something that does not even have offical forge documentation anymore. For multiple mods just copy the whole .zip folder over into another folder.
+**It seams like alot of steps only to have to do them all again every mod update. But when you get the hang of it it only takes about 30 seconds. Which I know is more work than just pressing one button, but it's better than learning all the code for something that does not even have offical forge documentation anymore. For multiple mods just copy the whole .zip folder over into another folder.**
+
+## Some Info
+
+**When you delete the mcreator 1.8.9 file you also are deleting all the minecraft data that you made if you ran the runClient.**
+
+**If you want to change your minecraft settings in the runCient then it will revert to almost default(forge is not the default minecraft settings cause they suck). To prevent this manually set your settings in the mcreator 1.8.9 zip file so when you unachive it, it will set you what you want. I you don't know how to do that, get your options.txt from your .minecraft folder and put it in your mcreator 1.8.9/forge/run folder. It MUST be a 1.8.9 version settings tho otherwhise they will probably just reset.**
+
+**You can manually edit the code by going to the src folder in the forge folder, but mod builders like this do things in weird ways because that's they way they work, so it will be hard to de-code or understand.**
+
+
+**Im happy try to help anyone if they needs it but if it's just struggle folowing this then mabe consider not trying to program mods, because the older mcrator interfaces, this, is hard to understand for complete beginners.**
+
+**Please tell me what I spelt wrong in here I rushed this, so, yeah.**
