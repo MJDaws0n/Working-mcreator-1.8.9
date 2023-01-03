@@ -1,6 +1,0 @@
-For the most up-to-date license of MCreator visit https://mcreator.pylo.co/terms-of-use.
-
-Licenses for APIs and external software are located in lib folder and inside specific directory of extensions.
-Another license is found in the forge directory and is made after the MCreators setup.
-
-With the usage of MCreator, you agree to all of these licenses and with the terms of use of the Pylo and MCreator.
