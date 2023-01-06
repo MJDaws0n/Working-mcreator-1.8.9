@@ -40,3 +40,6 @@ Download [here](https://github.com/MJDaws0n/Working-mcreator-1.8.9/releases/)
 **Im happy try to help anyone if they needs it but if it's just struggle folowing this then mabe consider not trying to program mods, because the older mcrator interfaces, this, is hard to understand for complete beginners.**
 
 **Please tell me what I spelt wrong in here I rushed this, so, yeah.**
+
+
+# If you get an error it might be because mcreator does not support everything so change you project up a bit and it might work
