@@ -1,6 +1,8 @@
 # Working mcreator for 1.8.9
 A working version of mcreator for 1.8.9
 
+Download [here](https://github.com/MJDaws0n/Working-mcreator-1.8.9/releases/)
+
 ## How to use
 **It's a little confusing and alot of work to get your actual .jar file or to run as a client but here are the steps.**
 
